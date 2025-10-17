@@ -19,7 +19,7 @@ Sistema IoT completo que integra un ESP32 con display OLED para monitorear preci
 
 ### Diagrama de Conexiones
 
-![Diagrama](docs/imagen_conexion_esp_32_pantalla_led.png)
+![Diagrama](docs/imagen_conexion_esp32_pantalla_led.png)
 
 ## 🌐 Servicios Integrados
 
